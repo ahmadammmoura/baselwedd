@@ -12,6 +12,8 @@ body {
   text-align: center;
   font-family: monospace;
   overflow: hidden;
+  touch-action: manipulation;
+
 }
 
 h1,

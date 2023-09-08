@@ -9,6 +9,8 @@ export default function Home() {
         <title>M & B Landing Page</title>
         <meta name="description" content="M & B Landing Page" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+
       </Head>
 
       <main>
